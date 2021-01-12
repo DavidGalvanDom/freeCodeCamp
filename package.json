@@ -1,11 +1,19 @@
 {
-  "name": "webapi",
+  "name": "freecodecamp",
   "version": "1.0.0",
-  "description": "Test for Freecodecamp",
+  "description": "FreeCodeCamp Tutorial",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duterte/FreeCodeCamp.git"
+  },
   "author": "David Galvan",
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duterte/FreeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/duterte/FreeCodeCamp#readme"
 }
