@@ -1,19 +1,5 @@
 {
-  "name": "freecodecamp",
-  "version": "1.0.0",
-  "description": "FreeCodeCamp Tutorial",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/duterte/FreeCodeCamp.git"
-  },
-  "author": "David Galvan",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/duterte/FreeCodeCamp/issues"
-  },
-  "homepage": "https://github.com/duterte/FreeCodeCamp#readme"
+    "name": "freecodecamp",
+    "version": "1.0.0",
+    "author": "David Galvan"
 }
